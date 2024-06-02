@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+	"instruction-generator",
+]
+
+resolver = "2"
